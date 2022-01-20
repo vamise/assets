@@ -1,0 +1,34 @@
+{
+    "name": "FYFY Token",
+    "website": "https://fyfy.io",
+    "description": "Grants access to the products and services inside the Fyfy Ecosystem",
+    "explorer": "https://solscan.io/token/vkG3Qrz6vCWjzDt5yCLEKYMYZ8hFZ27dmKe92btaZE3",
+    "type": "SPL",
+    "symbol": "FYFY",
+    "decimals": 9,
+    "status": "active",
+    "id": "vkG3Qrz6vCWjzDt5yCLEKYMYZ8hFZ27dmKe92btaZE3",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/fyfylabs/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/fyfyio/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/channels/918811466071683083/918811466801504260/"
+        },
+        {
+            "name": "bitcointalk",
+            "url": "https://bitcointalk.org/index.php?topic=5381337.msg58984678#msg58984678/"
+        }
+    ]
+ "tags": [
+         "governance"
+         "defi"
+         "utility-token"
+     ]
+}
